@@ -1,0 +1,57 @@
+body img.photo{
+    position: absolute;
+    left: 1050px;
+    top: 300px;
+    border-radius: 10px;
+    width:40%;
+}
+
+body img.schema{
+    width: 30%;
+    position: absolute;
+    left: 250px;
+    top: 520px;
+    border-radius: 10px;
+    width: 25%;
+}
+
+body div#inter div.un div.gauche{
+    text-decoration: none;
+    background-color: #D32020;
+    border-radius: 13px;
+    text-align: center;
+    width: 50%;
+}
+
+body div#inter div.un div.gauche p{
+    margin: 5px;
+}
+
+body footer{
+	position: absolute;
+	left: 20px;
+	top: 950px;
+}
+
+body div#olo div.deux div.droite{
+    position: absolute;
+    left: 43%;
+    top: 70%;
+    background-color: #D32020;
+    width: 56%;
+    border-radius: 10px;
+}
+
+body div#olo div.deux div.droite p{
+    text-align: center;
+}
+
+body div#olo div.deux div.droite h1{
+    text-align: center;
+}
+
+body div.rodez p.rodez{
+    position: absolute;
+    left: 1500px;
+    top: 810px;
+}

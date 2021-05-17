@@ -1,0 +1,54 @@
+div#gauche div.premiere_partie div.gauch{
+	margin: 20px;
+	background-color: #D32020;
+	vertical-align: top;
+	width: 48%;
+	text-align: center;
+	border-radius: 10px;
+}
+
+div#gauche div.premiere_partie div.gauch{
+	display: inline-block;
+	margin: 4px;
+}
+
+div#gauche div.premiere_partie div.gauch ul li{
+	text-align: left;
+}
+
+div.video{
+	position: absolute;
+	border-radius: 10px;
+	top : 170px;
+	left : 50%;
+}
+
+div#gauche div.deuxieme_partie div.droite{
+	text-align: center;
+	width: 48%;
+	vertical-align: top;
+	background-color: #D32020;
+	margin: 20px;
+	border-radius: 10px;
+	position: absolute;
+	left: 49%;
+	top: 640px;
+}
+
+div#gauche div.deuxieme_partie div.droite p{
+	margin: 3px;
+}
+
+body img{
+	border-radius: 10px;
+	position: absolute;
+	left: 200px;
+	top: 640px;
+	width: auto;
+}
+
+body footer{
+	position: absolute;
+	left: 20px;
+	top: 950px;
+}

@@ -1,0 +1,51 @@
+div#un div.un{
+    text-decoration: none;
+    background-color: #D32020;
+    border-radius: 13px;
+    text-align: left;
+    width: 50%;
+    position: absolute;
+    left: 900px;
+    top: 290px;
+}
+
+div#un div.un div.gauche p{
+    margin: 10px;
+}
+
+div#un div.un div.gauche h1{
+    text-align: center;
+}
+
+div#un div.un div.gauche ul{
+    text-align: left;
+}
+
+body img{
+    position: absolute;
+    left: 900px;
+    top: 160px;
+}
+
+body img.deux{
+    position: absolute;
+    left: 200px;
+    top: 480px;
+    border-radius: 10px;
+    width: 25%;
+}
+
+div#olo div.deux div.droite{
+    background-color: #D32020;
+    border-radius: 13px;
+    width: 45%;
+}
+
+div#olo div.deux div.droite h1{
+    text-align: center;
+}
+
+div#olo div.deux div.droite p{
+    text-align: center;
+    margin: 10px;
+}

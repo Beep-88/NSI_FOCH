@@ -1,0 +1,50 @@
+body{
+	background-image: url(https://maximumwallhd.com/wp-content/uploads/2016/12/fond-ecran-wallpaper-image-fonds-ecran-abstrait-noir-et-blanc-08.jpg);
+	background-repeat: no-repeat;
+}
+
+body header p.titre_principal{
+	display: inline-block;
+	margin-left: 700px;
+	margin-top: 15px;
+	font-size: 30px;
+	vertical-align: top;
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	text-decoration: none;
+	background-color: #D32020;
+	padding: 15px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: white;
+	background-color: #AD0404;
+	transition: 1s all;
+}
+
+nav.menu-nav{
+	background-color: #D32020;
+	padding: 13px;
+	border-radius: 10px;
+}
+
+body header img{
+	position: absolute;
+	left: 20px;
+	top: 15px;
+	border-radius: 0px;
+}
+
+body footer{
+	position: absolute;
+	left: 20px;
+	top: 950px;
+	color: #D0C9C9;
+}

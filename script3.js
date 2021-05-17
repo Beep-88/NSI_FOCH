@@ -1,0 +1,1 @@
+alert("Bienvenue sur le site de Rafael et Corentin ( page témoignages ) !!")
